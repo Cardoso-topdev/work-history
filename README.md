@@ -1,4 +1,17 @@
 # work-history
+## 3. Click site UI update
+  - Project Description
+  - Result
+    Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
+    [Live Site](https://oscar-update-click.netlify.app/)
+    
+## 2. One Net Test task.
+  - Project Description
+    
+  - Result
+    Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
+    [Live Site](https://oscar-one-net-test.netlify.app/)
+
 ## 1. Use Chore 
   - Project Description
     
@@ -13,15 +26,4 @@
       Used bootstrap, media-query, sass
     2) Large-size image load
       Zipped images using online image zip tools
-## 2. One Net Test task.
-  - Project Description
-    
-  - Result
-    Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
-    [Live Site](https://oscar-one-net-test.netlify.app/)
-## 3. Click site UI update
-  - Project Description
-  - Result
-    Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
-    [Live Site](https://oscar-update-click.netlify.app/)
-    
+
