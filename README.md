@@ -5,6 +5,9 @@
 ## 4. Shopify LL SDK API integration
   - Project description
     Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
+  - Result
+    [Shopify theme repository](https://github.com/Cardoso-topdev/advanced-shopify-theme)
+    
   - Challenges
     1) Build quiz templates and link with shopify store.
       Built quiz template by using 'Interact' shopify app. Created quiz result pages on shopify store and linked the result to those pages. And to receive the quiz result, append parameters to the url as like as GET method. Also sent quiz passed signal to Klaviyo shopify app to send templated email to customer and analize customer activities.
