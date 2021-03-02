@@ -5,7 +5,7 @@
 ## 4. Shopify LL SDK API integration
   - Project description
     Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
-  - Result
+  - Result <br />
     [Shopify theme repository](https://github.com/Cardoso-topdev/advanced-shopify-theme)
     
   - Challenges
