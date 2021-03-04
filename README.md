@@ -8,11 +8,17 @@
     5) users can view other users profiles if they have the link to other profiles but cannot edit other profiles
     6) users can follow other users
     7) when you click on the "readwithme" link on the header, maybe it can redirect to that page displaying the users
+    
+  - Live site & projects
+    [Live site](https://sayem-nextjs-vercel.vercel.app/login) <br />
+    [Node backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
+    [Next.js front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
+    
   - Challenges
     1) CORS error
       - Used cors() middleware on node server.
     2) Deploying MongoDB, Node server, front-end(Nextjs) on cloud server.
-      - Deployed mongodb to atlas, node backend on heroku, and nextjs front-end on vercel. <br /> You can check detailed document from these two repos below.
+      - Deployed mongodb to atlas, node backend on heroku, and nextjs front-end on vercel. <br /> You can check detailed document from these two repos below. <br />
         [node and backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
         [front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
     3) Google OAuth login 
@@ -25,7 +31,7 @@
 ## 4. Shopify LL SDK API integration
   - Project description
     Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
-  - Result <br />
+  - Source theme code <br />
     [Shopify theme repository](https://github.com/Cardoso-topdev/advanced-shopify-theme)
     
   - Challenges
@@ -45,14 +51,14 @@
 ## 3. Click site UI update
   - Project Description
     Frontend Developer w/ some Frontend Design Experience in Figma
-  - Result
+  - Result & project 
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
     
 ## 2. One Net Test task.
   - Project Description
     Webflow Animation + JS Test Projects
-  - Result
+  - Result & project
     Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
     [Live Site](https://oscar-one-net-test.netlify.app/)
     
@@ -64,7 +70,7 @@
   - Project Description <br />
     I am seeking a react developer to complete my marketing page.<br />Chore is an iOS app, so what I need is to complete the marketing page.  The marketing page must be mobile adative.
   
-  - Result
+  - Result & project
     Git repository: [react-chore](https://github.com/Cardoso-topdev/react-chore) <br/>
     [Live Site](https://usechore.netlify.app/)
    
