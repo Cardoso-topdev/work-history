@@ -1,20 +1,20 @@
 # My sites <br />
   ## React templates
-   - [material-kit](https://material-kit-react-sooty.vercel.app/)   https://material-kit-react-sooty.vercel.app/
-   - [fuse theme](https://react-fuse.vercel.app/)   https://react-fuse.vercel.app/
+   - [material-kit](https://material-kit-react-sooty.vercel.app/)   `https://material-kit-react-sooty.vercel.app/`
+   - [fuse theme](https://react-fuse.vercel.app/)   `https://react-fuse.vercel.app/`
   ## Bootstrap templates
-   - [Volt template](https://oscar-volt-bootstrap.netlify.app/)   https://oscar-volt-bootstrap.netlify.app/ <br />
+   - [Volt template](https://oscar-volt-bootstrap.netlify.app/)   `https://oscar-volt-bootstrap.netlify.app/` <br />
   ## Next.js templates
-   - [next.js template1](https://nextjs-template1.vercel.app/)  https://nextjs-template1.vercel.app/ <br />
+   - [next.js template1](https://nextjs-template1.vercel.app/)  `https://nextjs-template1.vercel.app/` <br />
   
-  [typeW](https://typew.com/)     https://typew.com/  <br />
-  [gohirenow](https://www.gohirenow.com/)   https://www.gohirenow.com/<br />
-  [useChore](https://usechore.netlify.app/)     https://usechore.netlify.app/ <br />
-  [workplace landing](https://oscar-workplace-credit.netlify.app/)    https://oscar-workplace-credit.netlify.app/ <br />
-  [One net landing](https://oscar-one-net-test.netlify.app/)    https://oscar-one-net-test.netlify.app/ <br />
-  [update click](https://oscar-update-click.netlify.app/)     https://oscar-update-click.netlify.app/  <br />
-  [next.js sayem](https://sayem-nextjs-vercel.vercel.app/login)   https://sayem-nextjs-vercel.vercel.app/login <br />
-  [shopify siete](https://sietefoods.com/)    https://sietefoods.com/ <br />
+  [typeW](https://typew.com/)           `https://typew.com/`  <br />
+  [gohirenow](https://www.gohirenow.com/)         `https://www.gohirenow.com/` <br />
+  [useChore](https://usechore.netlify.app/)           `https://usechore.netlify.app/` <br />
+  [workplace landing](https://oscar-workplace-credit.netlify.app/)          `https://oscar-workplace-credit.netlify.app/` <br />
+  [One net landing](https://oscar-one-net-test.netlify.app/)          `https://oscar-one-net-test.netlify.app/` <br />
+  [update click](https://oscar-update-click.netlify.app/)           `https://oscar-update-click.netlify.app/`  <br />
+  [next.js sayem](https://sayem-nextjs-vercel.vercel.app)         `https://sayem-nextjs-vercel.vercel.app/` <br />
+  [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
 
