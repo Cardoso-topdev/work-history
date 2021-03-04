@@ -40,8 +40,8 @@
     2) Boost animation within circle. Solved this problem with pure css animation.
 
 ## 1. Use Chore 
-  - Project Description
-    
+  - Project Description <br />
+    I am seeking a react developer to complete my marketing page.<br />Chore is an iOS app, so what I need is to complete the marketing page.  The marketing page must be mobile adative.
   
   - Result
     Git repository: [react-chore](https://github.com/Cardoso-topdev/react-chore) <br/>
