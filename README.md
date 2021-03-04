@@ -61,14 +61,14 @@
         - Prevent browser pref privacy that makes CORS error, hosted new node server on heroku and send data to the node server and resend to LL instead send data to LL directly.
         - Add cors middle ware to node server.
 ## 3. Click site UI update <br />
-  - Project Description
+  - Project Description <br />
       Frontend Developer w/ some Frontend Design Experience in Figma
   - Result & project  <br />
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
     
 ## 2. One Net Test task. <br />
-  - Project Description
+  - Project Description <br />
     Webflow Animation + JS Test Projects
   - Result & project <br />
     Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
