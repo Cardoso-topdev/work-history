@@ -1,4 +1,16 @@
+# My sites <br />
+  [next.js template1](https://nextjs-template1.vercel.app/) <br />
+  [typeW](https://typew.com/) <br />
+  [gohirenow](https://www.gohirenow.com/) <br />
+  [useChore](https://usechore.netlify.app/) <br />
+  [landing page template](https://oscar-workplace-credit.netlify.app/) <br />
+  [One net landing](https://oscar-one-net-test.netlify.app/) <br />
+  [update click](https://oscar-update-click.netlify.app/) <br />
+  [next.js sayem](https://sayem-nextjs-vercel.vercel.app/login) <br />
+  [shopify siete](https://sietefoods.com/) <br />
+  
 # work-history
+
 ## 5. Full Stack React, Next.JS, Express, MongoDB Social Bookmark Application
   - Project description
     1) google / twitter OAuth
