@@ -28,17 +28,17 @@
     
   - Challenges
     1) CORS error
-      - Used cors() middleware on node server.
+        - Used cors() middleware on node server.
     2) Deploying MongoDB, Node server, front-end(Nextjs) on cloud server.
-      - Deployed mongodb to atlas, node backend on heroku, and nextjs front-end on vercel. <br /> You can check detailed document from these two repos below. <br />
-        [node and backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
-        [front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
+        - Deployed mongodb to atlas, node backend on heroku, and nextjs front-end on vercel. <br /> You can check detailed document from these two repos below. <br />
+          [node and backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
+          [front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
     3) Google OAuth login 
-      - Create project on Google Cloud Platform, create Client ID and add domain to origins.
+        - Create project on Google Cloud Platform, create Client ID and add domain to origins.
     4) Solving JSON position error.
-      - Defined environment variables on Vercel
+        - Defined environment variables on Vercel
     5) Make easy to development, test, deployment
-      - Used git repository for both of development and deployment.
+        - Used git repository for both of development and deployment.
       - Used environment variables for test.
 ## 4. Shopify LL SDK API integration
   - Project description
@@ -48,21 +48,21 @@
     
   - Challenges
     1) Build quiz templates and link with shopify store.
-      Built quiz template by using 'Interact' shopify app. Created quiz result pages on shopify store and linked the result to those pages. And to receive the quiz result, append parameters to the url as like as GET method. Also sent quiz passed signal to Klaviyo shopify app to send templated email to customer and analize customer activities.
+        - Built quiz template by using 'Interact' shopify app. Created quiz result pages on shopify store and linked the result to those pages. And to receive the quiz result, append parameters to the url as like as GET method. Also sent quiz passed signal to Klaviyo shopify app to send templated email to customer and analize customer activities.
     2) Send template email to customer and analize customer activities.
-      - Built template emails.
-      - Made workflow to track customer activity and send template email to customer.  
-      - Create segment to analize and report customer activities.
+        - Built template emails.
+        - Made workflow to track customer activity and send template email to customer.  
+        - Create segment to analize and report customer activities.
     3) Integrating customer point && rewards system to shopify store.
-      - Added activity rules and tiers for giving points and rewards
-      - Added custom rules for extra activities such as passing quiz activity.
-      - Integrating custom rule SDK APIs to shopify store. For that hosted new node.js server on heroku.
+        - Added activity rules and tiers for giving points and rewards
+        - Added custom rules for extra activities such as passing quiz activity.
+        - Integrating custom rule SDK APIs to shopify store. For that hosted new node.js server on heroku.
     4) Solve the CORS error when integrating LL custom rule SDK APIs.
-      - Prevent browser pref privacy that makes CORS error, hosted new node server on heroku and send data to the node server and resend to LL instead send data to LL directly.
-      - Add cors middle ware to node server.
+        - Prevent browser pref privacy that makes CORS error, hosted new node server on heroku and send data to the node server and resend to LL instead send data to LL directly.
+        - Add cors middle ware to node server.
 ## 3. Click site UI update
   - Project Description
-    Frontend Developer w/ some Frontend Design Experience in Figma
+      Frontend Developer w/ some Frontend Design Experience in Figma
   - Result & project  <br />
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
