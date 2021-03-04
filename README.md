@@ -1,12 +1,16 @@
 # My sites <br />
   ## React templates
    - [material-kit](https://material-kit-react-sooty.vercel.app/)
-   
-  [next.js template1](https://nextjs-template1.vercel.app/) <br />
+   - [fuse theme](https://react-fuse.vercel.app/)
+  ## Bootstrap templates
+   - [Volt template](https://oscar-volt-bootstrap.netlify.app/) <br />
+  ## Next.js templates
+   - [next.js template1](https://nextjs-template1.vercel.app/) <br />
+  
   [typeW](https://typew.com/) <br />
   [gohirenow](https://www.gohirenow.com/) <br />
   [useChore](https://usechore.netlify.app/) <br />
-  [landing page template](https://oscar-workplace-credit.netlify.app/) <br />
+  [workplace landing](https://oscar-workplace-credit.netlify.app/) <br />
   [One net landing](https://oscar-one-net-test.netlify.app/) <br />
   [update click](https://oscar-update-click.netlify.app/) <br />
   [next.js sayem](https://sayem-nextjs-vercel.vercel.app/login) <br />
