@@ -9,7 +9,7 @@
     6) users can follow other users
     7) when you click on the "readwithme" link on the header, maybe it can redirect to that page displaying the users
     
-  - Live site & projects
+  - Live site & projects <br />
     [Live site](https://sayem-nextjs-vercel.vercel.app/login) <br />
     [Node backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
     [Next.js front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
@@ -51,14 +51,14 @@
 ## 3. Click site UI update
   - Project Description
     Frontend Developer w/ some Frontend Design Experience in Figma
-  - Result & project 
+  - Result & project  <br />
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
     
 ## 2. One Net Test task.
   - Project Description
     Webflow Animation + JS Test Projects
-  - Result & project
+  - Result & project <br />
     Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
     [Live Site](https://oscar-one-net-test.netlify.app/)
     
@@ -70,7 +70,7 @@
   - Project Description <br />
     I am seeking a react developer to complete my marketing page.<br />Chore is an iOS app, so what I need is to complete the marketing page.  The marketing page must be mobile adative.
   
-  - Result & project
+  - Result & project <br />
     Git repository: [react-chore](https://github.com/Cardoso-topdev/react-chore) <br/>
     [Live Site](https://usechore.netlify.app/)
    
