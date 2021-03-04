@@ -1,7 +1,27 @@
 # work-history
 ## 5. Full Stack React, Next.JS, Express, MongoDB Social Bookmark Application
   - Project description
+    1) google / twitter OAuth
+    2) create user account and username when user signs up for the first time
+    3) direct user to [projectname].herokuapp.com/@username when they log in
+    4) on their page, a very small header with their profile information. username (they cannot edit), and bio (which they can edit), and followers / following
+    5) users can view other users profiles if they have the link to other profiles but cannot edit other profiles
+    6) users can follow other users
+    7) when you click on the "readwithme" link on the header, maybe it can redirect to that page displaying the users
   - Challenges
+    1) CORS error
+      - Used cors() middleware on node server.
+    2) Deploying MongoDB, Node server, front-end(Nextjs) on cloud server.
+      - Deployed mongodb to atlas, node backend on heroku, and nextjs front-end on vercel. <br /> You can check detailed document from these two repos below.
+        [node and backend](https://github.com/Cardoso-topdev/sayem-node-server) <br />
+        [front-end](https://github.com/Cardoso-topdev/sayem-nextjs-vercel) <br />
+    3) Google OAuth login 
+      - Create project on Google Cloud Platform, create Client ID and add domain to origins.
+    4) Solving JSON position error.
+      - Defined environment variables on Vercel
+    5) Make easy to development, test, deployment
+      - Used git repository for both of development and deployment.
+      - Used environment variables for test.
 ## 4. Shopify LL SDK API integration
   - Project description
     Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
@@ -24,13 +44,14 @@
       - Add cors middle ware to node server.
 ## 3. Click site UI update
   - Project Description
+    Frontend Developer w/ some Frontend Design Experience in Figma
   - Result
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
     
 ## 2. One Net Test task.
   - Project Description
-    
+    Webflow Animation + JS Test Projects
   - Result
     Git repository: [one-net-landing](https://github.com/Cardoso-topdev/one-net-landing) <br />
     [Live Site](https://oscar-one-net-test.netlify.app/)
@@ -52,4 +73,3 @@
       Used bootstrap, media-query, sass
     2) Large-size image load
       Zipped images using online image zip tools
-
