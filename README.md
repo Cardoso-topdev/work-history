@@ -41,7 +41,7 @@
         - Used git repository for both of development and deployment.
       - Used environment variables for test.
 ## 4. Shopify LL SDK API integration
-  - Project description
+  - Project description <br />
     Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
   - Source theme code <br />
     [Shopify theme repository](https://github.com/Cardoso-topdev/advanced-shopify-theme)
@@ -60,14 +60,14 @@
     4) Solve the CORS error when integrating LL custom rule SDK APIs.
         - Prevent browser pref privacy that makes CORS error, hosted new node server on heroku and send data to the node server and resend to LL instead send data to LL directly.
         - Add cors middle ware to node server.
-## 3. Click site UI update
+## 3. Click site UI update <br />
   - Project Description
       Frontend Developer w/ some Frontend Design Experience in Figma
   - Result & project  <br />
     Git repository: [one-click-update-ui](https://github.com/Cardoso-topdev/one-click-update-ui) <br />
     [Live Site](https://oscar-update-click.netlify.app/)
     
-## 2. One Net Test task.
+## 2. One Net Test task. <br />
   - Project Description
     Webflow Animation + JS Test Projects
   - Result & project <br />
