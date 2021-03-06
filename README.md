@@ -17,7 +17,15 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
-
+## 6. One Net jobs
+  - First Job Description <br />
+    The jobs displayed on Google search results are referred to as rich snippets. 
+  - Challenges
+    1) Adjust the job pages to contain rich snippets.
+      [ref for concept url](https://developers.google.com/search/docs/data-types/)
+    2) Analyzing & Structured Data Makeup 
+      [GoogleStructured Data Markup Helper](https://www.google.com/webmasters/markup-helper/)
+      
 ## 5. Full Stack React, Next.JS, Express, MongoDB Social Bookmark Application
   - Project description
     1) google / twitter OAuth
