@@ -17,6 +17,11 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 7. Shopify solve subscription error
+  - Problem <br />
+    When customer add a subscription on special products which has several variants, the variant's information doesn't reflected on the order.
+  - Solution <br />
+    The problem was on shopify recharge theme. The products' syncronization was not affected to that products. To solve this problem, I've creat ruleset on recharge app, added products and syncronized. Then new product with the same product title + "auto renew" will be created. I've changed the prepended string to "SUBSCRIPTION". That's all.
 ## 6. One Net jobs
   - First Job Description <br />
     The jobs displayed on Google search results are referred to as rich snippets. 
