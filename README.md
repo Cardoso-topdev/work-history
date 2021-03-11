@@ -18,6 +18,41 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 8. advanced-react-hook
+### Overview of advanced-react-hook project.
+
+#### Technologies
+  - material-UI
+  - Integrating REST full APIs by using axios
+  - Test for unit test, CypressCI for e2e test
+  - draftail/draft-js library for content creator
+  - mobx for managing application data
+  - latest react router for routes. Comfortable tree-structured routes with easy-usable authentication route.
+  - Redux for managing application data
+  - redux-logger middleware for redux action && state log
+  - redux-saga and redux-thunk middlewares for comfortable managind redux actions and data
+  - redux-persist for storing redux data to localstorage for keeping redux data
+ 
+#### Pages
+  - Crop <br />
+      `Cropping image with zooming, rotating, opening image files functions`
+  - Custom Hook <br />
+      `Custom hooks for using useState on functional components as componentDidMount and componentDidUpdate function on class component.`
+      `And some other hooks on functional components.`
+  - draftail <br />
+      `Content creator page.`
+  - Homepage <br />
+      `Simple homepage`
+  - Layouts <br />
+      `Including layouts that wrapping children components`
+  - material <br />
+      `Simple material design`
+  - Todo <br />
+      `Shows managind redux and mobx data.`
+  - unit-test <br />
+      `Includes functions for unit test and react library test.`
+  - User <br />
+      `Simple user list page.`
 ## 7. Shopify solve subscription error
   - Problem <br />
     When customer add a subscription on special products which has several variants, the variant's information doesn't reflected on the order.
