@@ -1,6 +1,7 @@
 # My sites <br />
   ## React templates
    - [material-kit](https://material-kit-react-sooty.vercel.app/)   `https://material-kit-react-sooty.vercel.app/`
+   - [tailwind landingpage template](https://oscar-tailwind-landing.vercel.app/)    `https://oscar-tailwind-landing.vercel.app/`
    - [fuse theme](https://react-fuse.vercel.app/)   `https://react-fuse.vercel.app/`
   ## Bootstrap templates
    - [Volt template](https://oscar-volt-bootstrap.netlify.app/)   `https://oscar-volt-bootstrap.netlify.app/` <br />
