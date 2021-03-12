@@ -7,6 +7,8 @@
    - [Volt template](https://oscar-volt-bootstrap.netlify.app/)   `https://oscar-volt-bootstrap.netlify.app/` <br />
   ## Next.js templates
    - [next.js template1](https://nextjs-template1.vercel.app/)  `https://nextjs-template1.vercel.app/` <br />
+  ## Gatsby template
+   - [Prismic multi-lang template](https://prismic-gatsby-template.vercel.app/)   `https://prismic-gatsby-template.vercel.app/`
   
   [typeW](https://typew.com/)           `https://typew.com/`  <br />
   [gohirenow](https://www.gohirenow.com/)         `https://www.gohirenow.com/` <br />
@@ -18,6 +20,70 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 9. Prismic Gatsby 
+  [Live Site](https://prismic-gatsby-template.vercel.app/) <br />
+  [git rep](https://github.com/Cardoso-topdev/prismic-gatsby-multi-template)
+  
+### Technologies
+  - Create account on [prismic](https://prismic.io/) 
+  - Create repository on prismic
+  - Create document(content writer page) on repository
+  - Create custom types on repository
+  - Create Prismic Gatsby template project using this command
+  ```
+    npm install -g prismic-cli`
+    prismic theme --theme-url https://github.com/prismicio/reactjs-website --conf src/prismic-configuration.js
+  ```  
+  - Git push 
+  - Deploy on Vercel
+  - Reference pages on Prismic at php framework
+    [php project git rep](https://github.com/Cardoso-topdev/benjamin-proj)
+    1) composer install && composer.json 
+    ```
+        "name": "benjamin/php_quickstart",
+        "version": "2.0",
+        "require": {
+          "php": ">=7.1",
+          "prismic/php-sdk": "^5.0.1",
+          "slim/slim": "^3.10"
+        }
+    ```    
+    2) app/app.php
+    ```
+        $app->get('/', function ($request, $response, $args) use ($app, $prismic) {
+            // Query the API
+            $api = $prismic->get_api();
+            $document = $api->getByUID('page', 'first-page');
+
+            // Render the page
+            render($app, 'home', array('document' => $document));
+        });
+    ```
+    3) app/views/home.php
+    ```
+        <?php
+        use Prismic\Dom\RichText;
+
+        $document = $WPGLOBAL['document'];
+        ?>
+
+        <?php include_once 'header.php'; ?>
+
+        <div class="welcome">
+            <img src="<?= $document->data->image->url ?>" class="star"/>
+            <h1><?= RichText::asText($document->data->title) ?></h1>
+            <div>
+                <?= RichText::asHtml($document->data->description) ?>
+            </div>
+        </div>
+
+        <?php include_once 'footer.php'; ?>
+    ```
+    4) Run php project
+    ```
+        sh serve.sh
+    ```    
+
 ## 8. advanced-react-hook
 ### Overview of advanced-react-hook project.
 
