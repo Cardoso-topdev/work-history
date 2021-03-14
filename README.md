@@ -21,7 +21,7 @@
   
 # work-history
 ## 9. Prismic Gatsby 
-  [Live Site](https://prismic-gatsby-template.vercel.app/) <br />
+  [Live Site](https://prismic-gatsby-template.vercel.app/)  <br />
   [git rep](https://github.com/Cardoso-topdev/prismic-gatsby-multi-template)
   
 ### Technologies
