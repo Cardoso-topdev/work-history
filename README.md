@@ -9,6 +9,9 @@
    - [next.js template1](https://nextjs-template1.vercel.app/)  `https://nextjs-template1.vercel.app/` <br />
   ## Gatsby template
    - [Prismic multi-lang template](https://prismic-gatsby-template.vercel.app/)   `https://prismic-gatsby-template.vercel.app/`
+  ## Jamestack git repository 
+   - [git rep](https://github.com/stackbit/jamstackthemes)
+   - [live site](https://jamstackthemes.dev/)
   
   [typeW](https://typew.com/)           `https://typew.com/`  <br />
   [gohirenow](https://www.gohirenow.com/)         `https://www.gohirenow.com/` <br />
@@ -20,6 +23,13 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 10. Canfone 
+  [git rep](https://github.com/Cardoso-topdev/canfone-gatsby)   <br />
+### Description 
+  Convert static Html/css/javascript to Gatsby Site.
+### Technologies
+  - 
+
 ## 9. Prismic Gatsby 
   [Live Site](https://prismic-gatsby-template.vercel.app/)  <br />
   [git rep](https://github.com/Cardoso-topdev/prismic-gatsby-multi-template)
