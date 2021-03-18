@@ -25,10 +25,19 @@
 # work-history
 ## 10. Canfone 
   [git rep](https://github.com/Cardoso-topdev/canfone-gatsby)   <br />
+  [origin site](https://www.canfone.com/) <br />
+  [current site](http://canfone.surge.sh/) <br />
 ### Description 
-  Convert static Html/css/javascript to Gatsby Site.
-### Technologies
-  - 
+  Convert static Html/css/javascript to Gatsby Site. Integrating Prismic for content writer.
+### Things what I've done
+  - Javascript window.onload() function over-writting problem solved. it doesn't works well on develop environment, but works well on product after built and deployed to surge.
+  - Used Helmet for importing js library on pages. Also used withPrefix() function for loading script after document load.
+  - Convert React component to gatsby components. In original version, they used React components as javascript library. 
+  - Solve SSR errors. When building the project, some objects such as document and window is not allowed on server side. So the variables and functions that referenced that object make error when building. So we have to check if document or window is defined.
+  - Create imgLoader service instance for load all images. Because, Gatsby as a static site generator, all assets resources directory change when it has built. So need imgLoader service.
+  - Deployed on surge using surge command line. ex: `surge public\`
+  - Convert static web pages to Gatsby Project.
+  - Create new Gatsby project.
 
 ## 9. Prismic Gatsby 
   [Live Site](https://prismic-gatsby-template.vercel.app/)  <br />
