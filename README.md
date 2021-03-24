@@ -13,6 +13,7 @@
    - [git rep](https://github.com/stackbit/jamstackthemes)
    - [live site](https://jamstackthemes.dev/)
   
+  [Gatsby-Prismic for SSG with headlessCMS](https://canfone-five.vercel.app/)     `https://canfone-five.vercel.app/`  <br />
   [typeW](https://typew.com/)           `https://typew.com/`  <br />
   [gohirenow](https://www.gohirenow.com/)         `https://www.gohirenow.com/` <br />
   [useChore](https://usechore.netlify.app/)           `https://usechore.netlify.app/` <br />
@@ -23,13 +24,28 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 11. peacenik
+  [git rep](https://github.com/KotoLLC/peacenik)  <br />
+  [live site](https://koto.at/)  <br />
+  ### About
+    This is an on-going project. I am responsible for front-end(React). Slack for communication tool. Git for project version control and management. Docker for setup environment.
+  ### Technologies
+  - Docker
+  - React
+  - Golang
+  - MinIO aws s3 
+  - PostgreSQL
 ## 10. Canfone 
   [git rep](https://github.com/Cardoso-topdev/canfone-gatsby)   <br />
   [origin site](https://www.canfone.com/) <br />
   [current site](http://canfone.surge.sh/) <br />
 ### Description 
   Convert static Html/css/javascript to Gatsby Site. Integrating Prismic for content writer.
+  You can simply get the main work-flow/idea of Gatsby with headlessCMS(Prismic) from this [video](./prismic-rec.webm)
 ### Things what I've done
+  - Fixed a small issue for styling. After launch tailwind style was not applied. That was due to mis-editing purge option on tailwind-config.json file.
+  - Created multi-lang page on Prismic. You can use GraphQL query for load multi-lang page content. 
+  - Multi-lang implemented by using i18n package. After install i18n, you have to create files for supporting multi-lang. ex: index.fr.js : this file will be called when url is /fr/
   - Javascript window.onload() function over-writting problem solved. it doesn't works well on develop environment, but works well on product after built and deployed to surge.
   - Used Helmet for importing js library on pages. Also used withPrefix() function for loading script after document load.
   - Convert React component to gatsby components. In original version, they used React components as javascript library. 
