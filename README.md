@@ -28,7 +28,11 @@
   [git rep](https://github.com/KotoLLC/peacenik)  <br />
   [live site](https://koto.at/)  <br />
   ### About
-    This is an on-going project. I am responsible for front-end(React). Slack for communication tool. Git for project version control and management. Docker for setup environment.
+    This is an on-going project. 
+    I am responsible for developing front-end(React). 
+    Slack for communication tool. 
+    Git for project version control and management. 
+    Docker for setup environment.
   ### Technologies
   - Docker
   - React
@@ -41,7 +45,7 @@
   [current site](http://canfone.surge.sh/) <br />
 ### Description 
   Convert static Html/css/javascript to Gatsby Site. Integrating Prismic for content writer.
-  You can simply get the main work-flow/idea of Gatsby with headlessCMS(Prismic) from this [video](./prismic-rec.webm)
+  You can simply get the main work-flow/idea of Gatsby with headlessCMS(Prismic) from this [video](./assets/video/prismic-rec.webm)
 ### Things what I've done
   - Fixed a small issue for styling. After launch tailwind style was not applied. That was due to mis-editing purge option on tailwind-config.json file.
   - Created multi-lang page on Prismic. You can use GraphQL query for load multi-lang page content. 
