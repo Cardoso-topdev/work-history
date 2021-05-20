@@ -1,8 +1,11 @@
 # My sites <br />
   ## React templates
-   - [material-kit](https://material-kit-react-sooty.vercel.app/)   `https://material-kit-react-sooty.vercel.app/`
-   - [tailwind landingpage template](https://oscar-tailwind-landing.vercel.app/)    `https://oscar-tailwind-landing.vercel.app/`
-   - [fuse theme](https://react-fuse.vercel.app/)   `https://react-fuse.vercel.app/`
+   - [material-kit](https://material-kit-react-sooty.vercel.app/)   `https://material-kit-react-sooty.vercel.app`
+   - [tailwind landingpage template](https://oscar-tailwind-landing.vercel.app/)    `https://oscar-tailwind-landing.vercel.app`
+   - [fuse theme](https://react-fuse.vercel.app/)   `https://react-fuse.vercel.app`
+  ## Angular template
+   - [CoreUI Angular 2+ Admin Template](https://core-ui-angular-template.vercel.app/)  `https://core-ui-angular-template.vercel.app`
+   - [Ngx-Admin Angular template](https://ngx-template.vercel.app/) `https://ngx-template.vercel.app`
   ## Bootstrap templates
    - [Volt template](https://oscar-volt-bootstrap.netlify.app/)   `https://oscar-volt-bootstrap.netlify.app/` <br />
   ## Next.js templates
@@ -24,6 +27,20 @@
   [shopify siete](https://sietefoods.com/)          `https://sietefoods.com/` <br />
   
 # work-history
+## 12. Calendar App
+  [git rep]() <br />
+  [live site]() <br />
+  ### About
+    Used React.js as a front-end framework, Express/node.js as a backend framework, and MongoDB as a backend.
+
+    Only the administrator can input/edit/delete studying material. Students can schedule their diary plans according to the supported methods. There are two types of schedules: select the test date automatically and manually. Students can choose the days to study. With an auto choosing plan, students can set hours per day. After scheduled, that schedule can be saved by email.
+  ### Technologies
+   - React
+   - Express
+   - MongoDB
+   - Calendar
+   - Bulk mail
+   - Express Cron job
 ## 11. peacenik
   [git rep](https://github.com/KotoLLC/peacenik)  <br />
   [live site](https://koto.at/)  <br />
