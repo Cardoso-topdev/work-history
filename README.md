@@ -28,12 +28,17 @@
   
 # work-history
 ## 12. Calendar App
-  [git rep]() <br />
-  [live site]() <br />
+  [git rep](https://github.com/Cardoso-topdev/calendar-app) <br />
+  [live site](https://securities-calendar.herokuapp.com) <br />
   ### About
     Used React.js as a front-end framework, Express/node.js as a backend framework, and MongoDB as a backend.
 
-    Only the administrator can input/edit/delete studying material. Students can schedule their diary plans according to the supported methods. There are two types of schedules: select the test date automatically and manually. Students can choose the days to study. With an auto choosing plan, students can set hours per day. After scheduled, that schedule can be saved by email.
+    Only the administrator can input/edit/delete studying material. 
+    Students can schedule their diary plans according to the supported methods. 
+    There are two types of schedules: select the test date automatically and manually. 
+    Students can choose the days to study. 
+    With an auto choosing plan, students can set hours per day. 
+    After scheduled, that schedule can be saved by email.
   ### Technologies
    - React
    - Express
