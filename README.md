@@ -225,9 +225,9 @@
     5) Make easy to development, test, deployment
         - Used git repository for both of development and deployment.
       - Used environment variables for test.
-## 4. Shopify LL SDK API integration
+## 4. Shopify Loyalty Lion SDK API integration
   - Project description <br />
-    Integrated customer points/rewards system to shopify store. Added custom rules on LL. The rule is adding points when user passed quiz. But it doesn't work properly.
+    Integrated customer points/rewards system to shopify store. Added custom rules on Loyality Lion. The rule is adding points when user passed quiz. But it doesn't work properly.
   - Source theme code <br />
     [Shopify theme repository](https://github.com/Cardoso-topdev/advanced-shopify-theme)
     
